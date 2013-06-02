@@ -23,13 +23,13 @@ Box2: "remote control + headphones out"
 
 - box2 braucht box1, aber box1 muss ohne box2 funktionieren
 
-- drehknopf1 = volume control box1, schalter1 = mute box1
-- drehknopf2 = volume control headphones, schalter2 = mute headphones
+- drehknopf1 = volume control box1, schalter1 = mute box1, mute-led1
+- drehknopf2 = volume control headphones, schalter2 = mute headphones, mute-led2
 - eth in -> arm -> headphones
 - headphones amp(?)
 
 options:
-- zus. touch buttons + color lcd fuer channel select, etc.
+- alternativ: touch(?) buttons + color lcd fuer channel select, mute
 
 
 -----
