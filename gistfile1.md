@@ -9,6 +9,7 @@ Bare Features:
 - => 3 stereo channels: spdif1, spdif2, arm
 - alle channels koennen gleichzeitig audio anliefern. muss gemischt werden, mit von cpu einstellbaren volume (auch: off).
 - gemischtes signal soll dann auch variabel regelbar und abschaltbar sein. (cpu kontrolliert wieder)
+- gemischtes signal in die cpu zurueckfeeden
 
 options:
 
@@ -19,6 +20,8 @@ options:
 
 Box2: "remote control + headphones out"
 =======================================
+
+- box2 braucht box1, aber box1 muss ohne box2 funktionieren
 
 - drehknopf1 = volume control box1, schalter1 = mute box1
 - drehknopf2 = volume control headphones, schalter2 = mute headphones
