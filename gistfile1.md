@@ -15,7 +15,7 @@ options:
 - mehr spdif
 - analog in
 
----
+-----
 
 Box2: "remote control + headphones out"
 =======================================
@@ -27,3 +27,10 @@ Box2: "remote control + headphones out"
 
 options:
 - zus. touch buttons + color lcd fuer channel select, etc.
+
+
+-----
+
+Komponenten:
+
+- ARM: RaspPi (Demo purposes), ital. ARM/Atmel Modul?
